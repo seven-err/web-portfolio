@@ -5,3 +5,5 @@ dist/
 *.local
 .vercel
 .DS_Store
+.guidelines/
+.attributions.md
