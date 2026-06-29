@@ -292,7 +292,7 @@ function HeroVisual() {
             animation: "float 6s ease-in-out infinite 1.2s",
           }}
         >
-          ✦ building things
+          ✦ building projects
         </div>
       </div>
 
@@ -326,7 +326,7 @@ function HeroVisual() {
             <div>
               <span className="text-primary/70">name</span>
               <span className="text-muted-foreground">: </span>
-              <span className="text-cyan-300">&quot;Christian&quot;</span>
+              <span className="text-cyan-300">&quot;Christian Vence&quot;</span>
             </div>
             <div>
               <span className="text-primary/70">role</span>
