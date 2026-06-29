@@ -575,7 +575,7 @@ export default function App() {
               className="text-3xl sm:text-4xl font-extrabold"
               style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}
             >
-              Technologies I work with
+              Tech Stack
             </h2>
           </div>
 
