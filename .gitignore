@@ -5,5 +5,6 @@ dist/
 *.local
 .vercel
 .DS_Store
-.guidelines/
-.attributions.md
+guidelines/
+plans/
+ATTRIBUTIONS.md
